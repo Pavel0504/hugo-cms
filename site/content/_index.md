@@ -2,7 +2,6 @@
 title: Bayer Pharmaceuticals Россия
 subtitle: Добро пожаловать!
 image: img/logo-slide.webp
-image: img/slide.jpg
 blurb:
   heading: Why Kaldi?
   text: Kaldi is the coffee store for everyone who believes that great coffee
