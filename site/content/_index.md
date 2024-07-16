@@ -1,6 +1,7 @@
 ---
 title: Bayer Pharmaceuticals Россия
 subtitle: Добро пожаловать!
+image: img/logo-slide.webp
 image: img/slide.jpg
 blurb:
   heading: Why Kaldi?
