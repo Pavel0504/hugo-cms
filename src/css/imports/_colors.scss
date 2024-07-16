@@ -72,6 +72,10 @@
   background-color: var(--black);
 }
 
+.bg-footer {
+  background-color: rgb(216, 216, 216);
+}
+
 .bg-fix-primary {
   padding: 0 var(--spacing-small);
   & :first-child {

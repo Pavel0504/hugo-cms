@@ -50,10 +50,6 @@ export default class HomePreview extends React.Component {
             </div>
           </div>
 
-          <div className="tc">
-            <a href="{{.buttonLink}}" className="btn raise">Read more</a>
-          </div>
-
         </div>
       </div>
 
